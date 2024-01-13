@@ -20,4 +20,4 @@ To use the crawler, follow these simple steps:
 - Clone the repository to your local machine.
 - Run main.py
 
-* Note: the site crawled in the program cause errors intentionally.
+Note: the site crawled in the program cause errors intentionally.
