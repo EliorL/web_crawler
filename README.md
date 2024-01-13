@@ -17,7 +17,7 @@ Upon execution, the crawler generates files within the program folder to store t
 #### Getting Started
 To use the crawler, follow these simple steps:
 
-Clone the repository to your local machine.
-Execute the Python script with the desired website URL.
+- Clone the repository to your local machine.
+- Run main.py
 
 * Note: the site crawled in the program cause errors intentionally.
