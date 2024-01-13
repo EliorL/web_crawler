@@ -10,8 +10,8 @@ the crawler enhances performance, making it a valuable asset for tasks that dema
 #### File Structure
 Upon execution, the crawler generates files within the program folder to store the collected data:
 
-./crawled_site_{site_name}/crawled.txt: A file containing the links crawled from the website.
-./crawled_site_{site_name}/queue.txt: This file keeps track of links waiting to be crawled 
+- ./crawled_site_{site_name}/crawled.txt: A file containing the links crawled from the website.
+- ./crawled_site_{site_name}/queue.txt: This file keeps track of links waiting to be crawled 
 (empty upon completion).
 
 #### Getting Started
